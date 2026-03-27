@@ -1,4 +1,4 @@
-该项目是模板(template)
+该项目是一个简单的脚手架(template)
 包含以下技术栈：
 1. Springboot 4.0.5
 2. Eureka Server 5.0.1
